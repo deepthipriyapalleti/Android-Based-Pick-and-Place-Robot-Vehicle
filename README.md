@@ -10,3 +10,7 @@ This Android-controlled robot uses an Arduino and Bluetooth for remote pick-and-
 - **Programming:** Embedded C++ (Arduino)
 - **Hardware:** Arduino Uno, Bluetooth Module (HC-05), Servo Motors, DC Motors, L293D Motor Driver
 - **Connectivity:** Bluetooth Serial Communication
+## Project Presentation
+![slide1](slide1.png)
+![slide2](slide2.png)
+![slide3](slide3.png)
