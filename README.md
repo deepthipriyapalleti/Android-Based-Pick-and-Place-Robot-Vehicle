@@ -18,6 +18,11 @@ This Android-controlled robot uses an Arduino and Bluetooth for remote pick-and-
 
 ### Android App Interface
 ![App Layout](app_interface.png)
+
+## Project Demo
+Click the image below to watch the demo on Google Drive:
+
+[![Watch Project Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1jkQTSiW4FRnm8NN5-ZS1XXYwPpyIBzR8/view?usp=sharing)
 ## Project Presentation
 ![slide1](slide1.png)
 ![slide2](slide2.png)
