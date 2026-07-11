@@ -1,4 +1,4 @@
-Arduino Embedded C++ code for an Android-controlled Pick and Place Robot using Bluetooth, DC motors, robotic arm control, and LCD status display. 
+Arduino Embedded C++ code: 
 #include <Servo.h>
 
 #include <Wire.h> 
